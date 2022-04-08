@@ -1,0 +1,4 @@
+# 指定该工作空间中包含的程序库或二进制程序名称
+[workspace]
+members = ["app", "sum_crate"]
+
